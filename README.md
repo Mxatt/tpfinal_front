@@ -20,5 +20,5 @@ Características
 
 ## Despliegue
 
-La aplicación web se encuentra desplegada en:
-**https://gestor-de-inversiones.vercel.app/**
+La aplicación esta desplegada en:
+**tpfinal-front-beta.vercel.app**
